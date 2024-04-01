@@ -23,3 +23,11 @@ npm start
 ## Considerações finais
 
 Este foi um dos projetos mais complexo e difícel que já fiz, graças a ele pude por em prática diversos conceitos que são muito úteis no dia a dia de um programador front-end tais como criação de componentes, construção e manipulação de rotas com o react-router e dentre outros conceitos.
+
+<img src='./src/gif/pokedex.gif' alt='video da tela inicial do projeto' >
+
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JS
+- REACT
